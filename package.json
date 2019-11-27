@@ -30,6 +30,9 @@
     "e2e": "ng e2e",
     "prod-build-dev": "ng build --prod --build-optimizer",
     "prod-build-staging": "ng build --prod --configuration=staging --build-optimizer"
+    "assets": [ "src/favicon.ico",
+    "src/assets",
+    "src/web.config"]
   }
   }
 }
