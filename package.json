@@ -1,5 +1,4 @@
-{
-  "name": "conduit-angularjs",
+ "name": "conduit-angularjs",
   "version": "1.0.0",
   "description": "Angular frontend for Conduit",
   "author": "Thinkster",
@@ -35,4 +34,4 @@
     "src/web.config"]
   }
   }
-}
+
